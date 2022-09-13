@@ -15,4 +15,6 @@ This algorithm goes over  4 major steps:
  - Calculation(Mean Radius and HVID)
 
 # Note:
-The algorithm is still under development. This is the stable and simple version of my original algorithm which should work perfectly but you cannot input your own images unless if you use the same device of mine. You may have to change parameters according to your camera specifications, 
+The algorithm is still under development. This is the stable and simple version of my original algorithm which should work perfectly but you cannot input your own images unless if you use the same device of mine. You may have to change parameters according to your camera specifications.
+
+**I will be adding the sample input,output images soon within proper folders. In the meantime, i welcome you to explore the code as you wish**
